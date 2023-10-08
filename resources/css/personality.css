@@ -1,0 +1,87 @@
+h1{
+    display: inline;
+}
+
+h2{
+    margin: 20px 0px 20px 0px;
+}
+
+.titulo_formularios{
+    display: inline-block;
+    text-align: center;
+}
+
+th{
+    text-align: center;
+}
+
+.boton_crear{
+    display: inline;
+}
+
+.botones_enlace{
+    margin-bottom: 10px;
+}
+
+.buttonForm{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.sectionPanel{
+    display: flex;
+    margin: 0px 0px 20px 0px;
+}
+
+.sectionPanel2{
+    margin: 10px;
+}
+
+.tituloFotografia{
+    font-size: 25px;
+    margin-bottom: 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+.input{
+    margin-bottom: 5px;
+}
+
+img{
+    width: 350px;
+    height: 3500px;
+}
+
+td,th{
+    text-align: center;
+}
+
+.section_cargos_area{
+    display: inline;
+}
+
+.text_cargo_area{
+    margin: 0px 0px 0px 0px;
+}
+
+.table_cargo_area{
+    border: none;
+}
+
+.card_cargo{
+    display: inline-flex;
+    margin: 10px 10px 10px 10px;
+}
+
+.visit_search{
+    padding: 0px 0px 0px 0px;
+}
+
+.title-form{
+    font-size: 25px;
+    margin: 10px 0px 20px 0px;
+}
+
+.boton_salida{
+    margin: 0px 0px 10px 0px;
+}
